@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "John King, A dreamer and explorer"
 date: 2019-01-18
 ---
 
